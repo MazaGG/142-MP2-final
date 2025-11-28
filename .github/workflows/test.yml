@@ -31,6 +31,14 @@ jobs:
           python3.11 scripts/main.py --csv data/philippines_tourist_pois.csv --hnsw_bin bin/philippines --out results/philippines --num_queries 1000 --sample_queries 500 --k 10
           python3.11 scripts/main.py --csv data/indonesia_tourist_pois.csv --hnsw_bin bin/indonesia --out results/indonesia --num_queries 1000 --sample_queries 500 --k 10
           python3.11 scripts/main.py --csv data/sea_tourist_pois.csv --hnsw_bin bin/sea --out results/sea --num_queries 1000 --sample_queries 500 --k 10
+      
+      - name: Upload results
+        uses: actions/upload-artifact@v4
+        with:
+          name: results
+          path: |
+            bin
+            results
 
 
           
