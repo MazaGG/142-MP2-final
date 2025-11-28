@@ -1,0 +1,628 @@
+name,lat,lon,type,osm_type,osm_id
+Japanese Garden,16.085651,120.349861,monument,node,820094269
+Museo Iloko,16.3233292,120.3667954,museum,node,921111118
+Oasis Resort,16.0422932,120.4975075,water_park,node,1866716857
+Caba Plaza,16.4310991,120.3447132,theme_park,node,2770190034
+Bgy Canaoalan boundary arch,16.0254538,120.2872101,monument,node,4339373669
+Coal-fired Steam Locomotive,16.0434585,120.3341858,attraction,node,4353276123
+Quezon Zip-line finish,16.2233876,120.0464392,yes,node,4938599322
+Governor's Zip-line launch,16.2039762,120.0384125,attraction,node,4938600721
+The C-Shells Home and Garden,16.172875,120.0682667,attraction,node,4942109526
+Lucap Lighthouse,16.1927574,120.0038849,yes,node,5492732929
+Capantolan Welcome Arch,16.1156098,120.0665133,monument,node,5514354736
+Macatiw Welcome Arch,16.0968776,120.0066241,monument,node,5517635165
+Zip line end,16.2044957,120.0421274,yes,node,5533220452
+Small Zip-line end,16.222528,120.0462124,yes,node,5551458486
+Small Zip-line start,16.2214112,120.0463653,attraction,node,5551458491
+Quezon Zip-line start,16.2249625,120.0489701,attraction,node,5551718950
+Welcome to Telbang arch,16.1673753,120.0412773,monument,node,5554030037
+Welcome to Sabangan arch,16.1595803,120.0048749,monument,node,5582319326
+Welcome to Victoria Arch,16.1677928,120.0650019,monument,node,5940260250
+Lingayen Gulf Landing of Gen. Douglas Mc Arthur,16.0760826,120.3350446,monument,node,6068264791
+Jose Rizal Monument,16.044317,120.4875852,monument,node,6081642588
+Bay Bay Sur Welcome Arch,16.1520664,120.0785739,monument,node,6086682125
+Pangascasan Welcome Arch,16.128324,120.0868982,monument,node,6087454711
+San fabian resort,16.1189675,120.3832606,attraction,node,6280993786
+Zipline end,16.204514,120.0420116,attraction,node,6389599495
+Hanging bridge,16.2230043,120.0462563,attraction,node,6389599496
+Snorkeling spot,16.223253,120.0509807,attraction,node,6389601786
+Cave,16.205577,120.0379744,attraction,node,6389603089
+Salt fields,16.1726537,120.0086386,attraction,node,6389604589
+Cathedral Cave,16.2251399,120.0506601,attraction,node,6389634485
+Gapuz Grape Farm,16.4585922,120.3349572,attraction,node,6429571787
+"ASA B0861 Sto. Tomas, La union",16.2552551,120.4009109,attraction,node,6621523685
+"ASA B0214 Agoo, La union",16.3106396,120.3695533,attraction,node,6639127185
+Mayors Island,16.2052439,120.0475215,attraction,node,8268834217
+Dayew na Pangasinan,16.0341206,120.2327737,museum,node,8278871562
+Quantum,16.0446937,120.3432282,amusement_arcade,node,8861729294
+Aringay Centennial Tunnel,16.3965184,120.37227,attraction,node,8868142032
+Masamirey Beach Resort,16.1426116,120.1084205,attraction,node,8869946717
+Museo de Mangaldan - Heritage and Museum Center,16.0700058,120.4037049,museum,node,9038612159
+Masamirey Cove Beach Resort,16.0784109,120.1125894,attraction,node,9485153917
+Masamirey Cove Resort,16.141608,120.1064293,attraction,node,9485157417
+Aniversario Art Gallery,16.3432171,120.4936688,gallery,node,12032296087
+Helmet Diving,16.2210286,120.0482437,attraction,node,12497373274
+Hurricane Wheel boat ride,16.2219206,120.0464279,attraction,node,12497419759
+Banana Boat ride,16.2218312,120.0468154,attraction,node,12497419760
+Aqua Cycle ride,16.2223726,120.0464896,attraction,node,12497419761
+Bonsai botanical garden,16.2107862,120.0389339,garden,node,12497421358
+Snorkeling spot,16.2152133,120.0423062,attraction,node,12497425025
+Read Baron Vintage Bikes,16.0939475,120.0209258,museum,node,13094645091
+Quantum,16.0228615,120.3586578,amusement_arcade,node,13289111249
+Dreamflatable Playground,16.0228421,120.3587584,playground,node,13289111266
+Aguedo F. Agbayani Park,16.0323116,120.2320207,park,way,132917612
+Lingayen Plaza,16.0205129,120.2304449,park,way,132917613
+Dagupan City Park,16.0431426,120.3342084,park,way,164751575
+Veterans Memorial Park,16.0342548,120.231316,park,way,164827284
+Kultura Splash Wave,16.3212501,120.4704277,water_park,way,320343703
+WWII Historical Bldg. Gen. Douglas Mc Arthur,16.0429999,120.3330357,attraction,way,367890780
+Rosario Town Plaza,16.2303081,120.487664,park,way,372545658
+Pepito's Park,16.3468554,120.4127434,park,way,380357258
+Bued Mangrove Forest Park,16.1720181,120.0117795,yes,way,542860055
+Crab Building Food Park,16.0556669,120.3408255,park,way,547853433
+Mangaldan People's Park,16.0699813,120.4045921,park,way,547854003
+MacArthur Park,16.0761616,120.3347796,park,way,596257720
+Tondol White Beach,16.3138083,120.0175439,attraction,way,639268532
+Binmaley Park,16.0288939,120.2681709,park,way,654402150
+DCNHS Park,16.0374001,120.3333056,park,way,734351333
+Japanese Garden Park,16.0856513,120.3500058,park,way,734351335
+LFC Park,16.0757932,120.3446917,park,way,734351336
+Metro Plaza Mini Park,16.0440078,120.3348104,park,way,734351338
+Rizal Monument,16.0702359,120.4043875,monument,way,895400513
+Plaza de la Virgen,16.3234153,120.367272,park,way,959185482
+Santa Barbara Public Plaza,16.0005383,120.4034519,park,way,974039028
+Binmaley Museum,16.0288765,120.2690248,museum,way,981670097
+Forest Area,16.0470631,120.3414621,park,way,990087676
+Gef's Water Park,16.0950865,120.3746587,water_park,way,1057463891
+Rizal Park,16.0443144,120.487674,park,way,1091667165
+Children's Park,16.0460403,120.3388829,park,way,1094593751
+Amparo Garden,16.3472654,120.4133461,park,way,1414457046
+Sunshine Circle,16.325992,120.3722784,park,way,1417925923
+Bolo Beach,16.179346,120.0482076,attraction,relation,7707895
+Eagle of The North Park,16.3299453,120.3680395,park,relation,19035559
+Clinton Museum,16.3434096,120.4939049,museum,relation,19207092
+Crosby Park,16.363792,120.644603,attraction,node,311903286
+Our Lady of Lourdes Grotto,16.4096033,120.5806145,attraction,node,384119717
+Good Shepherd Sisters Convent,16.4223259,120.6261256,attraction,node,384142750
+Mine's View Park View Deck,16.4196052,120.6279122,viewpoint,node,677213560
+WINACA,16.484819,120.6312633,attraction,node,922871515
+Good Shepherd Convent View Deck,16.4220873,120.6262268,viewpoint,node,1252077236
+Lost Cemetery,16.3992622,120.6172399,attraction,node,1252757724
+Historical Core,16.3990954,120.6176492,attraction,node,1252873246
+PBTS Children's Playground,16.4234277,120.5844088,playground,node,1253191427
+P.A.F. Jet Fighter,16.3604192,120.6192574,attraction,node,1254081235
+Cadet Circle,16.3715407,120.6276445,attraction,node,1254081285
+Air Plane,16.360231,120.6192207,attraction,node,1254081314
+PMA,16.3613062,120.62048,museum,node,1254150026
+The Grove '55,16.3667474,120.6212785,park,node,1254150058
+The Long Gray Line (Graduate's Class Seals),16.3609449,120.6204371,attraction,node,1254150141
+Kiosk '55,16.3597406,120.6195868,attraction,node,1254150160
+Propeller Blade,16.3609779,120.6202531,attraction,node,1254150287
+Matindi '63 Park,16.3666011,120.6223252,attraction,node,1254229874
+Tree House - P.M.A.,16.3595121,120.6193842,attraction,node,1254229888
+Wishing Well 63,16.3664485,120.6221765,attraction,node,1254229904
+Maagap Mini Park,16.363756,120.6206211,park,node,1254229953
+Huey Helicopter,16.3602208,120.6193074,attraction,node,1254343688
+Lexber Playground,16.4558795,120.5266956,playground,node,1296102233
+Dalton Pass,16.1330553,120.9310856,viewpoint,node,1471900423
+Natividad Sky Plaza,16.0578213,120.8267562,viewpoint,node,2051454752
+SM City Baguio Balcony,16.4088895,120.5987765,viewpoint,node,2192298471
+Ugo Peak Viewpoint,16.3193723,120.8027481,viewpoint,node,2394150027
+Baguio Botanical Garden,16.4147407,120.6135181,theme_park,node,2738973986
+Twin Peaks Swimming Pool,16.2444276,120.5367478,water_park,node,3081281374
+Benguet Provincial Capitol Museum,16.4624504,120.5872062,museum,node,3110348777
+Perez park,16.1453592,120.9316103,park,node,3414036722
+Viewing Deck,16.1332107,120.929944,park,node,3414040443
+Sta. Fe Forest Park,16.1755121,120.9465402,attraction,node,3884269896
+Rose Farm,16.4695832,120.6074368,attraction,node,4214435593
+Sitio La Presa,16.355514,120.5646641,attraction,node,4375145795
+Wood Carvers Village,16.4077551,120.5556234,attraction,node,4391258789
+Ambuklao View Deck,16.4520844,120.7477154,viewpoint,node,4395104834
+The Little Mermaid,16.0273974,120.7444746,monument,node,4488183492
+SLU Subdivision Trail Head,16.4496949,120.5519598,garden,node,4686596846
+Sundial,16.360841,120.6193803,attraction,node,4693344748
+Botanical Garden Sign,16.415011,120.6128778,attraction,node,4703956743
+WWII Japanese tunnel,16.4149408,120.6144474,attraction,node,4703956745
+Airsoft game yard,16.4125007,120.613679,playground,node,4703956746
+Domo Green,16.4579,120.5861094,attraction,node,4805573421
+Retreat House,16.4040615,120.5863231,attraction,node,4809037125
+Tayawan Viewdeck,16.4608782,120.6020472,viewpoint,node,4867463224
+Quirantes Fun Rides,16.409473,120.596,theme_park,node,5427850921
+Irisan Dog Head,16.4338433,120.5453778,attraction,node,5506013911
+Banangan View Deck,16.4620982,120.5220415,viewpoint,node,5913461566
+Valley of Colors,16.4333,120.5971985,attraction,node,6071882871
+Museum of Arts and Cultures,16.4177728,120.5975733,museum,node,6101695315
+Ambanaw-Paway 1st Peak,16.3052114,120.6463966,viewpoint,node,6284078689
+Colors of Stobosa,16.4338458,120.5974401,viewpoint,node,6284089790
+Gungal Rock Formation,16.2932068,120.6353957,viewpoint,node,6284089886
+Beware-Ilog,16.0461135,120.5184812,attraction,node,6298941485
+Swan Boat,16.4111349,120.5938485,attraction,node,6397869386
+Bachelor Natividad Falls,16.0690415,120.8408536,attraction,node,6429572085
+Colors of STOBOSA,16.4337627,120.5969639,attraction,node,7026027586
+Mt. Ulap Photo Oppurtunity,16.3218199,120.648218,viewpoint,node,7101485009
+Gungal Rock Formation,16.2951155,120.6368809,viewpoint,node,7101485013
+Kidzoona Pop Up!,16.4080765,120.598845,playground,node,7187139236
+Wonderpark,16.4159716,120.5962237,amusement_arcade,node,7797982104
+SM City Baguio Sky Terrace,16.4090581,120.5986686,attraction,node,7996745356
+Pasalubong Center Viewdeck,16.3854941,120.5388265,viewpoint,node,8753528939
+Tuba View Deck,16.388243,120.5300979,viewpoint,node,8753528940
+Bahong Sunflower Farm,16.4722423,120.6064993,attraction,node,8825398568
+Kawayanan Eco-Park,16.4221901,120.6150824,attraction,node,8922630974
+Round View Deck,16.4322758,120.5753374,viewpoint,node,9579313348
+Malico Viewpoint,16.1736866,120.8635627,viewpoint,node,9696766517
+Rocky Mountain Adventure,16.4598353,120.5951764,attraction,node,9802896125
+Quantum,16.409682,120.5988188,amusement_arcade,node,9852441112
+Bagiuo Country Club Christmas Village,16.4079001,120.6158462,attraction,node,10301012109
+Blue Moon Gate,16.4095181,120.5795854,attraction,node,10732622410
+Garden Shrine of our Lady of Peace,16.4098133,120.5796517,attraction,node,10732622430
+Mirador Peace Memorial,16.4099278,120.5795847,attraction,node,10732622491
+Cordillera Heritage Garden,16.4094839,120.5810975,attraction,node,10732622501
+CASTILLO-KIM LIVESTOCK FARM,16.0734412,120.5972182,attraction,node,10761343705
+Jesus' Apostles Dap-Ayan,16.4088384,120.5799112,attraction,node,10900414575
+Holy Family Bell of Healing and Health,16.4085596,120.5797651,attraction,node,10900658646
+Blue Moon Gate,16.4098576,120.5795036,attraction,node,10906088588
+FantasyWorld,16.4081077,120.598805,playground,node,10992781383
+General Emilio Aguinaldo Museum,16.4121765,120.6009042,museum,node,11051147106
+Cemetery Of Negativism,16.3995165,120.6170806,attraction,node,11639969789
+Presidential Museum,16.4123875,120.6214795,museum,node,12204743012
+Quantum,16.4081344,120.5988456,amusement_arcade,node,12249460331
+Moon,16.4598297,120.5946773,viewpoint,node,12433130701
+Jeepney stop to Stone Kingdom,16.4136685,120.593515,attraction,node,12568299802
+Cordillera Eagles Region III View Deck,16.37844,120.5071235,viewpoint,node,12691457773
+Bayan Park Circle,16.4272357,120.606794,park,node,12709201806
+Dragon Treasure Castle,16.4219259,120.566402,attraction,node,12718675927
+Admirals Farm Park,16.4419152,120.5543548,park,node,12720832401
+Bayan Park Entrance,16.4276561,120.6067582,park,node,12775748590
+Swing and View Deck,16.4539281,120.6068692,viewpoint,node,12925026501
+Star,16.4538098,120.6069061,viewpoint,node,12925026601
+Mt Camisong Forest park and events,16.4147939,120.6859425,park,node,13307657401
+Cathedral of Our Lady of Atonement,16.4127319,120.5985294,attraction,way,42936372
+Museo Kordilyera,16.4057604,120.5977773,museum,way,43615588
+Palm Grove Hot Spring & Mountain Resort,16.4352189,120.5082055,water_park,way,98577230
+Veterans Park,16.4111242,120.5974501,park,way,109232477
+Mines View Park,16.4197051,120.6274938,attraction,way,109351462
+Bell House,16.3989705,120.6182385,museum,way,109375754
+Bell Amphitheater,16.3988781,120.6178355,attraction,way,109508305
+Lion's Head,16.3676081,120.6060033,attraction,way,109582851
+Map of the Phil. Islands,16.361963,120.6193579,attraction,way,109582856
+Air Force Park,16.3603448,120.6192371,park,way,109604298
+Relics Point (WW 2),16.3710604,120.6245719,attraction,way,109610900
+BenCab Museum,16.4106002,120.5503446,museum,way,112289880
+Igorot Garden,16.412964,120.594603,garden,way,156176452
+Binalonan Town Plaza,16.0458647,120.5933237,park,way,184850931
+Filipino Japanese Friendship Park,16.4049484,120.5972228,park,way,190596441
+Maryknoll Ecological Sanctuary,16.4008194,120.5888248,park,way,190600140
+Baguio Post Office Park,16.4114087,120.5990985,park,way,190727901
+Orchidarium,16.4105835,120.5927368,garden,way,190775316
+The Laperal White House,16.4110825,120.6047215,attraction,way,190923177
+Camp John Hay Art Park,16.3994452,120.6133599,park,way,191045719
+Natividad Public Plaza,16.043493,120.7961775,park,way,199767774
+Little Camp John Hay,16.3999545,120.6184813,park,way,208430120
+Phiilippine American Friendship Garden,16.4001984,120.6184999,park,way,208430121
+Arko Ni Apo Art Gallery,16.4298091,120.5762186,museum,way,209022140
+Tam-Awan Village,16.4299701,120.5766313,attraction,way,209022152
+Baguio Museum Incorporated,16.407022,120.5984309,museum,way,209340226
+Panagbenga Park,16.4035796,120.6056752,park,way,210041223
+Potenciano Ilustrio Memorial,16.4122042,120.615403,park,way,210041243
+Liberty Park,16.3989633,120.617084,park,way,210592585
+PEZA Park,16.3807598,120.6181093,park,way,255558970
+Cathedral of the Resurrection,16.4238091,120.5935181,attraction,way,259323535
+Basketball court,16.0565404,120.7886077,park,way,282059036
+Asingan Plaza,16.004067,120.6690045,park,way,305098647
+Tayug Town Plaza,16.0278155,120.7442419,park,way,305103089
+Burnham Park,16.4079978,120.5947726,heritage,way,330642136
+Mini Park,16.4122343,120.5970562,park,way,331533444
+Children's Playground,16.4093153,120.5941382,playground,way,331613097
+Pacdal Circle Park,16.4162983,120.6153488,park,way,331614611
+Tabanda Park,16.4497961,120.5902158,park,way,376934361
+Doña Carmen Park,16.0639448,120.6692225,park,way,387747019
+Navy Base Playground,16.4188095,120.6108119,playground,way,397578451
+Asingan Mini Park,16.0033788,120.6688189,park,way,401434651
+Ruperto's Resort,16.0514145,120.5660382,water_park,way,423094451
+Flower Garden,16.4682068,120.60404,garden,way,423683236
+WWII Veterans Center,16.452768,120.5732254,park,way,439440247
+South Drive Park,16.4073185,120.6096975,park,way,452221056
+Igorot Stairs,16.4090878,120.600763,attraction,way,461649222
+Orchidarium and Ornamental Plants Center,16.4519204,120.5892319,garden,way,461802907
+Lover's Park,16.4549686,120.5899312,park,way,461805397
+Herbal Garden,16.4557212,120.5894036,garden,way,461805404
+Fort Del Pilar Gatehouse,16.3728604,120.628896,attraction,way,475601745
+Miner's Garden,16.4055106,120.6384666,garden,way,485818189
+Baguio Gallery,16.4119651,120.6006045,gallery,way,488671112
+Rotary Friendship Park,16.4105489,120.6035323,park,way,488674996
+SLU Park,16.4182839,120.5976774,park,way,514199154
+San Roque Village Mini Park with Grotto,16.4126506,120.5822907,garden,way,543335614
+Sky Ranch Baguio,16.4068116,120.5999405,theme_park,way,570550425
+Senior Citizen Park,16.4272286,120.5865801,garden,way,575553127
+Grade 6 Garden,16.403327,120.6043192,garden,way,577077283
+Math Garden,16.4032269,120.6045266,garden,way,577077285
+Science Garden,16.4033167,120.6044692,garden,way,577077289
+Grade 5 Garden,16.4032203,120.6044584,garden,way,577077291
+SPG Garden,16.4034477,120.6043391,garden,way,577077294
+Quadrangle,16.4030909,120.6046623,playground,way,577077300
+Grade 4 Garden,16.4033617,120.6045468,garden,way,577077325
+Petersville Field,16.3864685,120.6002653,park,way,612199392
+Petersville Field,16.3869766,120.5998598,park,way,612199393
+Fray Andres de Urdaneta Park,16.0038819,120.5762051,park,way,654217516
+Mount Costa,16.4437443,120.5516837,attraction,way,670348824
+Sunnyside Pool,16.3588564,120.6763733,water_park,way,684035217
+Aular Pool,16.3673283,120.6849883,water_park,way,684036010
+"Wangal, La Trinidad, Benguet",16.4534503,120.5707744,park,way,684040860
+Meeting Place,16.4466499,120.5735304,park,way,692703327
+"Ambassador, Amcaway Lemon Farm",16.4903161,120.6815777,attraction,way,767487490
+Ibaloi Park,16.4099983,120.5934267,park,way,770591281
+Children' Park,16.0039513,120.6696819,park,way,785736889
+Mini-park,16.414476,120.5918151,park,way,840825080
+Butterfly Sanctuary,16.3981787,120.6167825,zoo,way,926215324
+Rosco C. Mandapats Barangay Park,16.404263,120.604891,park,way,951637546
+The Plaza Garden,16.4134608,120.5951479,garden,way,1019052427
+Irisan Ecopark Viewdeck,16.410416,120.5595599,viewpoint,way,1022492633
+Igorot Stone Kingdom,16.4319774,120.5750628,theme_park,way,1034070960
+Tip Top View Deck,16.4322365,120.5753927,viewpoint,way,1040055540
+Igorot Goldmine,16.4319207,120.5753616,attraction,way,1040363522
+Igorot Goldmine,16.4319033,120.5753137,attraction,way,1040363529
+Igorot Goldmine,16.4318776,120.5753311,attraction,way,1040363530
+Kids Avenue,16.4141805,120.5942366,playground,way,1054152633
+Kiddie Rides,16.4140919,120.5942461,amusement_arcade,way,1054355662
+Jss Thermal Pool,16.3589549,120.6768815,water_park,way,1063119742
+Lucky Five Swimming Pool,16.358691,120.6778494,water_park,way,1063119745
+Veterans Freedom Park,16.3667032,120.6680406,park,way,1063204909
+Divine & Mercy Park,16.3654,120.6695182,park,way,1063204920
+Vega Star Springpool,16.3592509,120.6739961,water_park,way,1063443935
+View Deck on the Rock,16.4594025,120.5953947,viewpoint,way,1067764858
+Quad,16.4230204,120.5842071,park,way,1102444208
+Ambassador View Deck,16.4979657,120.655406,viewpoint,way,1115487318
+Red Arrow,16.0684792,120.7611179,park,way,1172315252
+San Nicolas Plaza,16.0690842,120.7614289,park,way,1172335752
+Marian Salubong View Deck,16.4091791,120.5810941,viewpoint,way,1173799739
+Sam's Agritourism Park,16.4062213,120.5602574,attraction,way,1174545030
+Session Road,16.4125352,120.5971927,attraction,way,1190964348
+Secret Garden,16.3978628,120.619036,garden,way,1191320585
+Butterfly House,16.4035058,120.6057508,garden,way,1232937980
+Heritage and Nature Park,16.4038337,120.5867361,park,way,1318372637
+Pan-ayayaman Playground,16.3702669,120.5021453,park,way,1370379504
+Centennial Garden,16.4147011,120.6129198,garden,way,1385115361
+Cavaliers Park,16.3618533,120.6193091,park,relation,1566980
+La Trinidad Strawberry Farm,16.4531524,120.5820319,attraction,relation,7917267
+The Mansion Compound,16.4120756,120.6212994,attraction,relation,7918303
+Oblation Grounds,16.4054594,120.5990506,park,relation,12475995
+Wright Park,16.4150723,120.6183876,attraction,relation,12714120
+General Emilio Aguinaldo Park,16.4119248,120.601385,park,relation,13378637
+Rizal Park,16.4126336,120.5927194,park,relation,13431293
+Irisan Ecopark,16.4102192,120.5596301,park,relation,13691739
+Viewdeck,16.3451112,120.7244759,viewpoint,relation,13795132
+Zonta Park,16.4090939,120.6013064,park,relation,13805367
+Phi Omega Park,16.4087447,120.6014387,park,relation,13805666
+Highland Groove Resort,16.3604346,120.6738589,water_park,relation,14176258
+Rainbow Resort,16.3579196,120.6773939,water_park,relation,14176533
+Aldom's Resort,16.3578083,120.6788691,water_park,relation,14176534
+Hillside Swimming Pool R.F.,16.3590182,120.6745197,water_park,relation,14176535
+Baguio Botanical Garden,16.4142899,120.6137614,garden,relation,14181288
+3J Nature's Camp,16.3783898,120.7033136,water_park,relation,14187645
+Rose Garden,16.4118634,120.5934971,garden,relation,15349356
+Sunshine Park,16.4064231,120.5990247,park,relation,15353902
+DOT-PTA Complex,16.4068816,120.5981283,park,relation,15353903
+Mayor's Park,16.047898,120.5474567,park,relation,15538928
+Eco Spirituality Park,16.4089053,120.5806281,park,relation,15595350
+Mini-park,16.4006394,120.6060403,garden,relation,15848930
+Tafarmco Park,16.3784838,120.5080502,park,relation,15974870
+Kennon Road View Deck,16.3751196,120.6069941,viewpoint,relation,16111634
+Kennon Pavilion Park,16.3747763,120.6069378,park,relation,16111635
+Malcolm Square People's Park,16.414084,120.5957476,park,relation,16114416
+Pink Sisters' Convent and Chapel,16.4122131,120.6042154,attraction,relation,16115176
+Harrison Night Market,16.4122444,120.5958955,attraction,relation,16117514
+BGHMC Gardens,16.4016346,120.5955853,park,relation,17638972
+Barangay Park,16.4160691,120.6088338,garden,relation,18772516
+Dr. José P. Rizal Monument,16.2842882,121.0916976,monument,node,2497255053
+Bambang-Dupax Del Norte Boundary Marker,16.3381938,121.1086764,monument,node,3730448504
+Lintungan Falls,16.4208971,121.3018728,attraction,node,4881221121
+Tomas Rock,16.4537742,121.3759238,viewpoint,node,6148259865
+Rock Tower,16.4512964,121.3759822,viewpoint,node,6148259866
+Capitol Wishing Well,16.4874909,121.1591698,attraction,node,7087338583
+SEA OF CLOUDS DUPAX,16.1680629,121.2712567,attraction,node,7305814685
+Yabbi Cave,16.1551316,121.3303552,attraction,node,10758027882
+BIATALS View Deck,16.3499307,121.1175783,park,node,12316543493
+Luzon Island,16.0792044,121.0668177,attraction,node,12810812801
+Plaza Brgy. Salvacion,16.4786121,121.1494382,playground,way,239531066
+Bayombong Children's Park,16.4839772,121.1500689,park,way,239594343
+Bernabe's Subdivision Playground,16.3649758,121.1001496,park,way,241062557
+Bambang Plaza,16.3850147,121.1053458,park,way,241140229
+Aritao Municipal Hall Complex,16.2946482,121.0337818,attraction,way,242063479
+St. Vincent Patio,16.2846236,121.0915285,park,way,242213716
+People's Park,16.4883345,121.1592992,park,way,243917789
+Ammungan Park,16.4870984,121.1605251,park,way,243917799
+"Quezon Municipal Plaza , Nueva Vizcaya",16.4891662,121.2638335,park,way,244011779
+Ineangan Brgy. Plaza,16.3169684,121.0915552,park,way,368273512
+Mabasa Barangay Plaza,16.3242308,121.1227193,park,way,368274137
+Lamo Barangay Plaza,16.333173,121.1075187,park,way,369238198
+School Park,16.1928457,121.2419124,park,way,369248555
+Theopile Verbist Park,16.4841173,121.1565729,park,way,838021592
+Bagnes Eco Tourism Park,16.4876217,121.4086663,park,way,964101480
+People's Museum,16.4833154,121.1498062,museum,way,1366489053
+SMU Mini Forest,16.4823033,121.1547907,park,way,1419559650
+San Lorenzo Park,16.484165,121.1562105,park,way,1419559664
+UB Park,16.4839481,121.1556183,park,way,1419559665
+Filipino-Chinese Friendship Pagoda,16.6141862,120.3192274,viewpoint,node,727856363
+Boardwalk,16.6085875,120.2855093,viewpoint,node,920335507
+Tangadan Falls,16.6435298,120.448957,yes,node,2399262100
+To Tuddingan Falls,16.5758521,120.4133473,attraction,node,5289190445
+To Immuki Island,16.8025996,120.3277247,attraction,node,5296827823
+"To Brgy. Arosip 6,5km",16.7329573,120.3837373,attraction,node,5297204527
+Baroro Beach,16.7113134,120.3382394,attraction,node,5567745679
+La Union Botanical and Zoological Garden,16.5873137,120.3660499,park,node,6017166233
+La Union Science Centrum and Museum,16.5894753,120.3639534,museum,node,6017166234
+"ASA B0511 Luna, La union",16.8537894,120.3758732,attraction,node,6621524085
+Flowers in Bloom Garden,16.5149146,120.4036857,garden,node,7589619114
+Loslosi Falls,16.613836,120.4462427,attraction,node,8115266145
+Brgy. Mindoro,16.9059248,120.4160984,attraction,node,8243713917
+Acao Viewdeck,16.5365767,120.36293,viewpoint,node,9434866894
+Kedlap Burial Cave,16.586123,120.4648089,attraction,node,11124163173
+Region I Satellite Warehouses,16.6108634,120.3167703,viewpoint,node,11541828669
+Accommodation October 2023,16.7329325,120.3877735,attraction,node,11701063670
+Tom's World,16.6000564,120.3189021,amusement_arcade,node,11773203171
+World of Fun,16.6295224,120.3227062,amusement_arcade,node,11978622191
+World of Fun,16.6256144,120.3236778,amusement_arcade,node,13276014551
+FantasyWorld,16.6254492,120.3235517,playground,node,13276014552
+San Fernando Botanical Garden,16.5868931,120.367069,garden,way,59018101
+Bangar Public Plaza,16.8935816,120.4232023,park,way,165253155
+San Fernando City Plaza,16.6158813,120.317031,park,way,239833114
+Bacnotan Town Plaza,16.7202857,120.3526055,park,way,251585858
+Naguilian Town Plaza,16.5304871,120.391593,park,way,303739519
+People's Park,16.6699437,120.3383319,park,way,304038806
+Luna Park,16.8536668,120.377615,park,way,345802452
+Camp Spencer,16.8208311,120.3357338,attraction,way,345830587
+Basketball Court,16.5231442,120.3762854,park,way,379869800
+Zone 1 Basketball Court,16.5808811,120.4100399,park,way,379877160
+Nagsabaran Curt,16.6585607,120.4010825,park,way,453898599
+Dasay Court,16.6581342,120.4035609,park,way,453898835
+Lion's Park,16.6166662,120.3173793,park,way,590141033
+Catbangen Peryahan,16.614271,120.3122336,theme_park,way,636773607
+Freedom Park,16.6122879,120.3175701,park,way,961963781
+Taberna Mini Sea Park,16.5366861,120.3168613,attraction,way,1050690101
+Bahay na Bato,16.8474214,120.3516519,attraction,way,1389233567
+Bato de Luna,16.8468054,120.3529434,attraction,way,1389233568
+The Baywalk in Poro Point,16.6182149,120.2877295,park,relation,13712952
+Sabangan View Deck,16.9927637,120.9179346,viewpoint,node,27915621
+Former Philippine Highway System Highest Point,16.6406311,120.775414,viewpoint,node,364228346
+Viewpoint overlooking Halsema Highway,16.6030012,120.8852544,viewpoint,node,1914649483
+Timbac Mummy Caves,16.6505496,120.796943,attraction,node,3077976508
+Pulag Junior (Peak 3),16.5860374,120.9094506,viewpoint,node,3266680871
+Sea of Clouds Viewpoint,16.5974171,120.8989138,viewpoint,node,3266680872
+Cervantes Viewpoint,16.9725301,120.6782139,viewpoint,node,4235403540
+Mummy Cave,16.6558496,120.7765684,attraction,node,4311180790
+Former Highest Point,16.6406394,120.7753476,attraction,node,4805497121
+Bangao (for Pongasan cave),16.6550263,120.8373579,attraction,node,4857162221
+Welcome Center Mt Pulag National Park,16.6101158,120.8408465,attraction,node,4917828321
+Daclan Sulfur Spring,16.5216293,120.8141748,attraction,node,4941860525
+Carrot Peak,16.833442,120.6519235,viewpoint,node,5572530835
+START OF 5.61 KILOMETER CLIMB,16.5535135,120.5984863,yes,node,5636346034
+Mountain Province Arch,16.8388101,120.8618317,attraction,node,6257566385
+Sakura Park,16.6264532,120.7577372,park,node,6406782134
+Bojombong/ Pigingan Falls,16.5012725,120.8459394,park,node,6407937549
+Mt. Kalawitan,16.961382,120.9704693,viewpoint,node,6648758085
+Juuno's Playground,16.9783835,120.984692,viewpoint,node,6648758086
+Alilem Municipal Hall,16.8868201,120.5310056,attraction,node,7270895885
+Kabayan Mummy Burial Cave,16.6214153,120.8416475,attraction,node,7575106289
+View point for terraces,16.8227073,120.8330767,attraction,node,9356939517
+Kapayawan Rice Terraces,16.9989548,120.8894536,attraction,node,10251145960
+Mount Tabayoc Viewing Deck,16.6882052,120.8858776,viewpoint,node,10731612238
+Highest Point,16.6405237,120.7752257,attraction,node,11749795369
+Benena Park,16.9860864,120.9138511,park,way,255671329
+Kabayan National Museum,16.6236343,120.8344905,museum,way,303443231
+Bessang Pass,16.960504,120.6578747,park,way,318004399
+Eco-SWM Park,16.763712,120.8348257,park,way,684042545
+Northern Blossom Flower Farm,16.6252937,120.7691035,yes,way,1115646875
+Angaleyguey View Deck,16.732782,120.8007326,viewpoint,way,1116923272
+Mount Polis Pass,16.9659875,121.0269302,viewpoint,node,313744149
+Bangaan View,16.9133304,121.1266078,viewpoint,node,1278966206
+Rizal Shrine,16.5189184,121.1418187,monument,node,1548363494
+Ifugao Ethnic Village,16.9479142,121.0560912,museum,node,2251420080
+Banaue Main Viewpoint,16.9354701,121.0573118,viewpoint,node,2251421239
+Uddiawan Falls,16.5697629,121.1189139,viewpoint,node,2536325315
+Dianarra Viewdeck 6,16.9330236,121.0554095,viewpoint,node,2613474739
+Banaue Rice Terraces View Deck,16.935481,121.0577356,attraction,node,3884194454
+Mayoyao Viewpoint,16.980464,121.2283392,viewpoint,node,4551592489
+Kiangan view deck,16.7828918,121.12231,viewpoint,node,4934894121
+Lower Magat Eco-Park,16.6536904,121.3862506,attraction,node,4942434824
+Fish hatchery,16.9125657,121.0971501,attraction,node,5018097023
+Guihob Natural Pool,16.91621,121.0869828,yes,node,5018109421
+Baguio Viewpoint,16.9120611,121.0617487,viewpoint,node,5293466223
+Hiwang Museum,16.92636,121.0529817,museum,node,5404185198
+Hapao Viewpoint,16.8823662,121.0094845,viewpoint,node,5428155121
+viewpoint 30 Php,16.9268322,121.0533805,viewpoint,node,5428305322
+Batad,16.9374073,121.1354866,viewpoint,node,5436415622
+Awa Viewpoint,16.9355192,121.1501102,viewpoint,node,5512884225
+Imbuliklik,16.771003,121.0662999,viewpoint,node,5533945363
+A'pfaw Mahencha Falls,16.9810928,121.2619089,attraction,node,5620380623
+Cambulo Rice Terraces,16.9549204,121.1258048,attraction,node,6048130077
+Tappiya Falls,16.9391695,121.1365037,attraction,node,6048138123
+MRAVIN GUIDE,16.9130822,121.0602614,attraction,node,6366457485
+Maggok viewpoint,16.7963927,121.057968,viewpoint,node,6564359486
+Mountain View,16.9406132,121.1346213,viewpoint,node,7159795486
+Banaue Arc,16.8799263,121.061069,viewpoint,node,7284171587
+Rice Terrace Clusters of Kiangan,16.7809884,121.0644217,attraction,node,7573814996
+Rice Terraces Clusters of Hungduan,16.8376916,121.0021242,attraction,node,7573814997
+Mayoyao Rice Terraces,16.9701109,121.2276811,attraction,node,7573914085
+WWII Cannon,16.5177796,121.1804344,attraction,node,8022914221
+Planas Rolling Hills Parking,16.789928,121.4715506,attraction,node,8891759583
+Mt. Attugu Viewpoint,16.8330064,121.1140667,viewpoint,node,9916482724
+Dolowog FS10,16.9271145,121.4694859,attraction,node,11726407169
+FS,16.9787384,121.2232362,attraction,node,11726541869
+"NSHP Brgy. Ambuntog , Asipulo",16.7332755,121.0699706,attraction,node,11729743369
+NSHP FS 14,16.7525471,121.0393952,attraction,node,11729913869
+Kay-Ang Hill Hotel,16.8279153,121.0982995,attraction,node,11732380369
+Kiangan Junction Point,16.7833615,121.1206811,monument,node,12314324836
+Banaue Ethnic Village & Pine Forest Resort,16.9477343,121.0563274,attraction,way,215670931
+Bagabag Town Plaza,16.607129,121.2533825,park,way,243316933
+Heroes Park,16.517788,121.1807177,park,way,243676885
+Children's Park,16.5181487,121.1802331,park,way,243683854
+Dacayo's Village Playground,16.5096105,121.2138553,playground,way,243992650
+Lamut Plaza,16.6514759,121.2186919,park,way,244053537
+Ifugao Museum,16.7786605,121.0823359,museum,way,244707093
+Lagawe Town Plaza,16.7977574,121.123408,park,way,244798364
+Banaue Museum,16.9118761,121.0602387,museum,way,244910633
+Banaue Rice Terraces View Point,16.9171153,121.0587409,attraction,way,244911332
+Coldileran Culture Museum,16.9052201,121.0602302,museum,way,245020101
+Mayoyao Town Plaza,16.9726904,121.2223057,park,way,245080293
+JGC Resort,16.5996364,121.2212374,attraction,way,246462077
+Murong Plaza,16.6010347,121.2264489,park,way,246464017
+Plaza,16.5506661,121.1908614,park,way,246480863
+Bangaan Plaza,16.5443489,121.1406798,park,way,246632877
+Wacal Brgy. Plaza,16.5321431,121.143861,park,way,246635812
+Casat Barangay Plaza,16.5240806,121.1366727,park,way,246642638
+Rizal Shrine,16.5187589,121.1417568,attraction,way,246645132
+Rizal Shrine Complex,16.5174523,121.1437215,attraction,way,246649082
+Ifugao Village,16.9051809,121.0660651,attraction,way,273895611
+Ifugao hut,16.9053943,121.0660685,attraction,way,273895612
+Ifugao Hut,16.9053221,121.0660926,attraction,way,273895613
+Peace Museum,16.7769099,121.085204,museum,way,574895336
+Plaza (Basketball Court),16.5793092,121.1897193,park,way,678542173
+Diadi Childrens Park,16.6600613,121.3687419,park,way,770099099
+Palaisdaan Hotel & Restaurant,16.5903967,121.2499469,attraction,way,1160448114
+Batad Rice Terraces,16.9314268,121.1350659,yes,relation,8167057
+Heroes Hill National Park,17.464526,120.43526,park,node,1027889987
+Santa Symbolic Landmark,17.4527897,120.4328898,viewpoint,node,4984707624
+Eco park,17.143773,120.4982988,zoo,node,10731007358
+Simbahan ng Nuestra Señora de la Asuncion,17.3663605,120.4830932,attraction,way,149341535
+Candon Plaza,17.1928245,120.4484144,park,way,162074705
+Rizal Park,17.4175502,120.476468,park,way,645589485
+St. Lucy Parish Church Side Park,17.4183292,120.4763454,park,way,702722385
+San Jose Children's Playground,17.0972281,120.4952067,playground,way,1071961848
+Sugong Hanging Coffins Viewpoint,17.0735841,120.9014899,attraction,node,364220659
+Tirad Pass Park,17.1436542,120.6215561,playground,node,1332550301
+Death Site of Del Pilar,17.1417832,120.6271565,attraction,node,1332550302
+Ganduyan Museum,17.0846626,120.9005664,museum,node,2612566174
+Sagada Pottery,17.087109,120.8955359,attraction,node,2613055699
+Sunset Viewpoint,17.0930712,120.8837941,viewpoint,node,2613055700
+Kiltepan Peak,17.092476,120.914854,viewpoint,node,2613062949
+Pongas Falls,17.0467895,120.8902699,attraction,node,2771754378
+Kaman Utek,17.0537519,120.9223595,attraction,node,2784698980
+Japanese Garden,17.0905755,120.9775172,garden,node,2785592285
+Bontoc Viewpoint,17.0943499,120.9706308,viewpoint,node,2785611798
+Maligcong Viewpoint,17.1231488,120.9755759,viewpoint,node,2811336792
+Hanging Coffins,17.0810762,120.90581,attraction,node,2918514080
+Kapay-aw Rice Terraces,17.0684201,120.8990145,attraction,node,3858183158
+Veterans Memorial Park,17.089967,120.9762985,park,node,4245442836
+Underground River,17.0846516,120.9052915,attraction,node,4297388490
+Sunrise Viewpoint,17.0709805,120.9253428,viewpoint,node,4540633089
+balangagn cave,17.0465459,120.9137912,attraction,node,4691723561
+Cave Entrance,17.065315,120.9026483,attraction,node,4750698323
+Wine Cellar Door,17.0871273,120.8976399,attraction,node,4763543421
+Balili Bgy Hall,17.0479599,120.9300282,attraction,node,4817058021
+Tubo House,17.2581209,120.7192266,viewpoint,node,5360301321
+Viewpoint for Kapay-aw rice terraces,17.0666316,120.9017195,viewpoint,node,5601973721
+Mt. Fato Viewpoint,17.1182964,120.9684872,viewpoint,node,5698447821
+Blue Soil,17.0546889,120.9221955,viewpoint,node,6284065689
+Kadchug Viewpoint,17.0807729,120.9682944,viewpoint,node,6389649887
+Tuwato Monolith,17.0290619,120.6353988,attraction,node,7235065212
+Tuwato Summit,17.0316612,120.6361002,attraction,node,7235065224
+Quirino Skyline,17.1812509,120.6499977,viewpoint,node,7284171588
+Sagada Marker,17.0756776,120.9357237,viewpoint,node,7284171686
+The Sacred Rock of Lumauig,17.0792889,120.9734007,attraction,node,8231328989
+Bunker,17.0959715,120.9090765,viewpoint,node,9350044617
+Picnic site,17.0740379,120.8888911,attraction,node,9354336817
+Picnic site,17.0733362,120.8885738,attraction,node,9354350317
+Sun set view,17.0719611,120.8875236,attraction,node,9354354917
+Picnic site,17.0741161,120.8888966,attraction,node,9354666917
+Picnic site,17.073348,120.888588,attraction,node,9354667017
+Sun set view,17.0720124,120.8875224,attraction,node,9354667217
+View point,17.0719512,120.9260632,attraction,node,9354723821
+View point,17.0697298,120.9250016,attraction,node,9354757017
+Rest area,17.0738059,120.9254871,attraction,node,9354774817
+Rest area,17.0738233,120.9254765,attraction,node,9356921217
+View point,17.071969,120.9260993,attraction,node,9356921317
+View point,17.0697713,120.9250023,attraction,node,9356921417
+View desk,17.1520748,120.5109615,viewpoint,node,10731014619
+Candon City Eco Park,17.1474375,120.5037969,zoo,node,10861621896
+APCO Mountain Province (Bontoc),17.095941,120.9782002,attraction,node,11718439269
+Tunnel Going To Abra,17.4944338,120.5073806,attraction,node,11740095075
+Palayan View Deck,17.3629675,120.6352637,viewpoint,node,12159441927
+Tangeb Grounds,17.0803544,120.9014442,park,way,256595687
+Provincial Plaza,17.0904833,120.97695,park,way,274194445
+Bontoc Museum,17.0896882,120.9756594,museum,way,421830476
+Bontoc Circle,17.0899467,120.9770839,park,way,867567424
+Palayan View Deck,17.3624163,120.6353369,viewpoint,way,1313661023
+Masferré Photographs,17.0889134,120.9058745,museum,way,1364000396
+Mt. Patukan View Point,17.2650895,121.1829741,viewpoint,node,1976379658
+Viewpoint,17.228323,121.1109049,attraction,node,4833843522
+Ethnic Boutique & Coffee Shop,17.4075725,121.4250279,attraction,node,4936868322
+Start 4 kilometer GRADE 3 Climb,17.4901,121.21603,attraction,node,5423878922
+Start Grade 2 climb 13kilometres,17.2838189,121.1600506,attraction,node,5423883921
+Start 10 kilometer GRADE 2 climb,17.3856844,121.1844655,attraction,node,5423883922
+Fokong Rice Terraces Viewing Point,17.1617082,121.0180794,viewpoint,node,6120619360
+Eco Village,17.4154681,121.2547931,attraction,node,8871879217
+Waterfall,17.2059598,121.0952346,attraction,node,9349743917
+View point,17.0142318,121.4882051,viewpoint,node,10839658330
+"Barlig, FS7",17.0706524,121.1371096,attraction,node,11722122169
+Capitol Park,17.4076637,121.4424169,park,way,640513758
+CARAA Ground,17.4070193,121.4461927,park,way,1115990633
+Baluarte,17.5507522,120.3773636,attraction,node,1024780820
+Ruby Jar Factory (Burnay/Pottery),17.5712437,120.382525,attraction,node,1238977931
+Gregoria M. Rivera Memorial Library & Museum,17.5749983,120.3865689,museum,node,1240464214
+Yellow Submarine,17.5510726,120.3770041,attraction,node,1240596227
+Lions,17.5517576,120.3752921,attraction,node,1240596302
+snake,17.5513538,120.3766622,attraction,node,1240596319
+sitio 2 lubigan city,17.9167072,120.489151,viewpoint,node,4170776189
+temp,17.5615011,120.4373439,viewpoint,node,4197070389
+Old Quirino Bridge,17.5581668,120.4671267,viewpoint,node,6284089789
+Ilocos Norte-Ilocos Sur Arch,17.8975003,120.4688535,viewpoint,node,7284171886
+Mindoro Beach,17.5593537,120.3461634,attraction,node,9323202517
+Giraffes,17.5595816,120.3742173,attraction,node,11035727988
+Ostriches,17.559074,120.3743836,attraction,node,11035727989
+Tigers,17.5543162,120.3737278,attraction,node,11035727990
+White Lion,17.5540873,120.3737761,attraction,node,11035727991
+White Lion,17.551952,120.3747471,attraction,node,11035727994
+Camels,17.5507321,120.3780864,attraction,node,11035727995
+The Vigan Tourist Park,17.5692864,120.3812655,park,node,11274941870
+Crocodile,17.5519586,120.378011,attraction,node,13274940301
+Plaza Burgos,17.5742682,120.3886645,park,way,100932701
+Plaza Salcedo,17.5753341,120.3875969,park,way,100932703
+Plaza Trese Martires,17.5753718,120.3863869,park,way,107890082
+Archbishop's Residence,17.575593,120.38846,attraction,way,149320127
+Burgos Museum,17.5755856,120.3857584,museum,way,149320613
+Baluarte,17.5509453,120.3774303,zoo,way,149337185
+Crisologo Museum,17.5704381,120.3869057,museum,way,241782959
+Cabugao Central Park,17.7915639,120.4566091,park,way,416633235
+The Golden Tower,17.5511146,120.3761658,attraction,way,444292560
+Unknown Citizen's Park,17.6390155,120.4098092,park,way,469414974
+Rizal Park,17.6378838,120.4093944,park,way,469419802
+Santo Domingo South Central School,17.6361768,120.406325,park,way,469419825
+Church Garden,17.6240809,120.3946045,park,way,469419832
+Activity Area,17.623545,120.3942389,park,way,469419834
+Safari Gallery,17.5521922,120.3748169,gallery,way,579426175
+Barangay Bonifacio Plaza,17.7890999,120.4572663,park,way,962384765
+Rizal Park,17.7942232,120.4557951,park,way,962384767
+Luna Park,17.9269634,120.4750791,park,way,1009968490
+Calle Crisologo,17.5719377,120.388784,attraction,way,1188443247
+Ilocos Sur Bicentennial Park,17.5764559,120.3895205,park,way,1205712966
+Science Park,17.5775844,120.3750433,park,way,1212223542
+Math Park,17.5776954,120.3751037,park,way,1212223543
+Dardarat Plaza,17.7706523,120.4240502,park,way,1356474534
+Barangay Baclig Plaza,17.7930044,120.4510436,park,relation,17211474
+Caoayan Agri-fishery Park,17.536307,120.3718737,park,relation,19045463
+Cassamata Hill National Park,17.5932206,120.6218128,park,node,3093490054
+ARCANGEL RESIDENCE,17.6890313,120.7321842,attraction,node,4522538489
+Mitz Witteman,17.6899776,120.7334628,attraction,node,4522538789
+"Bangued, Abra",17.5936354,120.621239,viewpoint,node,8540597417
+Nueva Era,17.9152317,120.6640844,attraction,node,8905272112
+ADTEMPCO Demo Farm,17.5987936,120.7108398,attraction,node,9008916517
+JD’ Town,17.9519001,120.526828,attraction,node,11742808869
+Bangued Town Plaza,17.5965004,120.6178669,park,way,304752810
+Banna Municipal Plaza,17.9798111,120.6550693,park,way,962441767
+Victoria Park,17.5934835,120.6213923,park,way,1054803411
+Tayum Freedom Park,17.6178778,120.6538001,park,relation,14013313
+"Asinga-via,Baggao Cayan",17.9123515,121.1881722,attraction,node,4839694728
+Start 3 kilometer GRADE 3 Climb,17.50152,121.13359,attraction,node,5423878923
+Start of 16 kilometer GRADE 1 CLIMB,17.50067,121.0752,attraction,node,5423878924
+Waiting shade,17.863097,121.2435608,viewpoint,node,8091476461
+Odasco Vegetation,17.7248054,121.4830242,attraction,node,9935652317
+8 Buluan,17.740625,121.3858482,attraction,node,11749396269
+Caglayan ES,17.7953233,121.3231957,park,node,12635319943
+Basilica Park,17.786748,121.4806514,park,way,245085859
+Piat Town Plaza,17.7916668,121.477078,park,way,245207931
+Tuao Park,17.7341282,121.4553365,park,way,245284472
+Tuao Plaza,17.7341927,121.455944,park,way,245284681
+Church Patio,17.845466,121.3455512,park,way,250502227
+Plaza,17.8458677,121.3460447,park,way,250502413
+Brgy. Plaza,17.8454361,121.3885415,park,way,250517594
+Childrens' Park,17.7903527,121.4799791,park,way,1360502661
