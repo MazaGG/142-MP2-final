@@ -20,8 +20,8 @@ def sweep_params(vectors, queries, gt_fn, space, M_vals, efC_vals, efS_vals, k=1
         for efC in efC_vals:
             index, build_time = build_index(vectors, space=space, M=M, ef_construction=efC)
             if hnsw_bin is not None:
-                hnsw_bin = f"{hnsw_bin}/M{M}_efC{efC}.bin"
-                index.save_index(hnsw_bin)
+                save_path = f"{hnsw_bin}/M{M}_efC{efC}.bin"
+                index.save_index(save_path)
             for efS in efS_vals:
                 start_q = time.time()
                 labels, distances, qtime = query_index(index, queries_sample, k=k, ef_search=efS)
