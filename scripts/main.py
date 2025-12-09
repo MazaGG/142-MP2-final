@@ -94,14 +94,14 @@ def run_experiment(csv_path, out_folder="results", hnsw_bin="bin", num_queries=1
     else:
         # GEO vectors
         print("\nCreating geographic vectors...")
-        geo = generate_random_dataset(csv_path, n_points=n_points, dim=2)
+        geo = generate_random_dataset(n_points=n_points, dim=2)
         rng = np.random.default_rng()
         sample_idxs = rng.choice(len(geo), size=num_queries, replace=True)
         q_geo = geo[sample_idxs]
 
         # SEMANTIC vectors
         print("\nCreating semantic vectors...")
-        sem = generate_random_dataset(csv_path, n_points=n_points, dim=384)
+        sem = generate_random_dataset(n_points=n_points, dim=384)
         sample_idxs = rng.choice(len(sem), size=num_queries, replace=True)
         q_sem = sem[sample_idxs]
 

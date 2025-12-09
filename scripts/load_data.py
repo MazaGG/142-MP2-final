@@ -17,10 +17,7 @@ def load_hnsw(path, dim, space):
     index.load_index(path)
     return index
 
-def generate_random_dataset(path, n_points, dim, seed=1):
+def generate_random_dataset(n_points, dim, seed=1):
     rng = np.random.default_rng(seed)
     data = rng.random((n_points, dim)).astype(np.float32)
-    df = pd.DataFrame(data, columns=[f"x{i}" for i in range(dim)])
-    path = f"{path}_{dim}D.csv"
-    df.to_csv(path, index=False)
     return data
