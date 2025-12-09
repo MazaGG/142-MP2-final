@@ -13,7 +13,7 @@ def sweep_params(dim, results, vectors, queries, gt_fn, space, M_vals, efC_vals,
         for efC in efC_vals:
             print(f"\nBuilding HNSW M{M}_efC{efC}...")
             index, build_time = build_index(vectors, space=space, M=M, ef_construction=efC)
-            print(f"HNSW M{M}_efC{efC} built in {build_time:.6f}s")
+            # print(f"HNSW M{M}_efC{efC} built in {build_time:.6f}s")
             if hnsw_bin is not None:
                 save_path = f"{hnsw_bin}/{dim}/M{M}_efC{efC}.bin"
                 index.save_index(save_path)
@@ -31,5 +31,5 @@ def sweep_params(dim, results, vectors, queries, gt_fn, space, M_vals, efC_vals,
                     'efConstruction': efC,
                     'efSearch': efS,
                 })
-                print(f"HNSW M{M}_efC{efC}_efS{efS} query done in {query_time:.6f}s, recall@{k}={recall:.4f}")
+                # print(f"HNSW M{M}_efC{efC}_efS{efS} query done in {query_time:.6f}s, recall@{k}={recall:.4f}")
     return results

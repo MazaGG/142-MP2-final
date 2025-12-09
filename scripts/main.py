@@ -58,7 +58,7 @@ def run_comparison(vectors, queries, brute_force_fn, hnsw_bin, space='l2', k=10)
     efS_vals = [10, 100, 500]
     if len(vectors) >= 100000:
         M_vals = [8, 16, 32, 64]
-        efC_vals = [10, 100, 200, 400]
+        efC_vals = [50, 100, 200, 400]
         efS_vals = [10, 100, 500, 1000]
     dim = vectors.shape[1]
     results = sweep_params(dim, results, vectors, queries, brute_force_fn, space, M_vals, efC_vals, efS_vals, k, hnsw_bin)
