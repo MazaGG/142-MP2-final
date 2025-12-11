@@ -41,7 +41,7 @@ def interactive_session(csv_path, index_path, k=5):
     print("\n--- Approximate Nearest Neighbors (HNSW) ---")
     print(f"(search time: {runtime:.4f} seconds)")
     for i, idx in enumerate(labels):
-      print(f"{i+1}. {df.iloc[idx]['name']}  (dist={dist[i]:.4f})")
+      print(f"{i+1}. {df.iloc[idx]['name']}")
 
     print("\n--- True Nearest Neighbors (Brute Force) ---")
     start = time.time()
@@ -56,5 +56,5 @@ def interactive_session(csv_path, index_path, k=5):
 
 if __name__ == "__main__":
   CSV_PATH = "data/sea_tourist_pois.csv"          
-  INDEX_PATH = "bin/sea/M32_efC200.bin"         
+  INDEX_PATH = "bin/sea/384/M32_efC200.bin"         
   interactive_session(CSV_PATH, INDEX_PATH, k=10)

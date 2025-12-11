@@ -25,12 +25,7 @@ jobs:
       
       - name: Run test script
         run: |
-          python3.11 scripts/main.py --csv data/baguio_tourist_pois.csv --out results/baguio --hnsw_bin bin/baguio --num_queries 1000 --k 10
-          python3.11 scripts/main.py --csv data/cordillera_tourist_pois.csv --out results/cordillera --hnsw_bin bin/cordillera --num_queries 1000 --k 10
-          python3.11 scripts/main.py --csv data/luzon_tourist_pois.csv --out results/luzon --hnsw_bin bin/luzon --num_queries 1000 --k 10
-          python3.11 scripts/main.py --csv data/philippines_tourist_pois.csv --out results/philippines --hnsw_bin bin/philippines --num_queries 1000 --k 10
-          python3.11 scripts/main.py --csv data/sea_tourist_pois.csv --out results/sea --hnsw_bin bin/sea --num_queries 1000 --k 10
-          python3.11 scripts/main.py --csv data/random_100k --out results/random_100k --num_queries 1000 --k 10 --synthetic_data 100000
+          python3.11 -u scripts/main.py --csv data/random_1M --out results/random_1M --num_queries 1000 --k 10 --synthetic_data 1000000
 
       - name: Upload results
         uses: actions/upload-artifact@v4
